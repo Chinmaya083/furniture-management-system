@@ -2,6 +2,7 @@
 A simple dbms project which demonstrates the backend process of a furniture shop's dbms using MySQL server.
 I've just created a fake database for convenience.
 All tables are at least in 3NF.
+Auto increment features have been used.
 The trigger updates the furniture table every time a row is added to sold_furniture, i.e, updates the furniture stock every time a transaction is made.
 The check contraints check if the digits of ph_no are only numbers and also ensure that the furniture stock doesn't go below 0.
 I've demonstrated a couple of simple queries.
