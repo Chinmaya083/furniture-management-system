@@ -9,4 +9,4 @@ I've demonstrated a couple of simple queries.
 The nested queries used help determine 1) Customer details of all those who made purchases on a particular date
                                        2) Revenue earned
                                        3) Model that brought in the most revenue.
-I've also demonstrated an inner joins and full outer joins.
+I've also demonstrated an inner join and a full outer join.
